@@ -4,7 +4,7 @@
 
 Aucune installation de dépendances requise. Téléchargez un seul fichier binaire et lancez l'analyse.
 
-![Version](https://img.shields.io/badge/Version-1.0.16-blue)
+![Version](https://img.shields.io/badge/Version-1.0.19-blue)
 ![Platforms](https://img.shields.io/badge/Platforms-Windows%20|%20Linux%20|%20macOS-brightgreen)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
