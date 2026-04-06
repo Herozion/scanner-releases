@@ -4,7 +4,7 @@
 
 No dependencies required. Download a single binary and start scanning.
 
-![Version](https://img.shields.io/badge/Version-1.0.19-blue)
+![Version](https://img.shields.io/badge/Version-1.0.39-blue)
 ![Platforms](https://img.shields.io/badge/Platforms-Windows%20|%20Linux%20|%20macOS-brightgreen)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
 
